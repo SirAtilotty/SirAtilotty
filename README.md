@@ -42,8 +42,8 @@ Creating custom plugins and high-concurrency systems. Focused on performance opt
 ## 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atilotty&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilotty&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SirAtilotty&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAtilotty&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
