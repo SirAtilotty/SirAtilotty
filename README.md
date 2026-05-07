@@ -33,10 +33,6 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 - **Firmware:** C++/Arduino (Signal Transmission)
 - **Compute:** Raspberry Pi 5 (8GB)
 
-### ☕ Advanced Java Automations & Systems
-Focusing on low-latency execution and memory management for ARM architectures.
-- Implementing custom high-concurrency algorithms.
-- Performance tuning for JVM on Linux-based single board computers.
 
 ---
 
