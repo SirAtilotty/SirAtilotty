@@ -30,7 +30,6 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
 
 ### 📡 Wi-Fi Sensing & Doppler Matrix (Active)
 Developed a system using **ESP32-S3** modules to detect movement through walls by analyzing Wi-Fi signal disturbances (CSI data).
-- **Backend:** Java (Real-time Data Processing)
 - **Firmware:** C++/Arduino (Signal Transmission)
 - **Compute:** Raspberry Pi 5 (8GB)
 
@@ -42,9 +41,8 @@ Focusing on low-latency execution and memory management for ARM architectures.
 ---
 
 ## 🔬 My Hardware Lab
-- **Main Server:** Raspberry Pi 5 (8GB RAM) - Stable @ 50°C
-- **Nodes:** ESP32-S3, Arduino Uno, Raspberry Pi 400
-- **Network:** 60 Mbps Ethernet Uplink | Kali Linux Monitor Mode
+- **Main Server:** Raspberry Pi 5 (8GB RAM)
+- **Nodes:** ESP32-S3, Arduino Uno,
 
 ---
 
@@ -76,6 +74,6 @@ Focusing on low-latency execution and memory management for ARM architectures.
 
 ---
 
-### 📫 Reach Me:
+
 - **Status:** *Always learning, always building.*
 - **Focus:** High-performance Java & System Security
