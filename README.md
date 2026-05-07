@@ -1,20 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Hi there, I'm Atilla!
 
-My Name Is Atilla Its My Github Profile
+### 🚀 Java Developer | Cybersecurity Enthusiast | Embedded Systems
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpaWxoamgwOWE4Z3JraWJscTZucngzdm92ZW5vdHR6aTNrb2oybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kzJvEciJa94SMW3hN/giphy.gif" width="300" />
+A high school student passionate about low-level programming and network security. Currently pushing the limits of **Raspberry Pi 5** and developing advanced systems in **Java**.
+
+---
+
+## 🛠 Skills & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
-As for the areas I work in, I specialize in Java, cybersecurity, and to a lesser extent, C++
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 📡 Current Focus
+- 🐧 Advanced penetration testing and network security on **Kali Linux**.
+- ☕ Building scalable applications and automation tools using **Java**.
+- 🍓 Experimenting with **Raspberry Pi 5** hardware integration and performance optimization.
 
-From now on, I am developing my own Raspberry Pi projects (only rpi5)
+---
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+## 🔭 Surprised by my code?
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpaWxoamgwOWE4Z3JraWJscTZucngzdm92ZW5vdHR6aTNrb2oybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kzJvEciJa94SMW3hN/giphy.gif" width="180" />
+</p>
 
-As a high school student myself, I want to progress in this field, and I would appreciate your support in the projects I'm working on
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="400" />
+</p>
 
