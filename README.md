@@ -1,14 +1,14 @@
 # 👨‍💻 Hi there, I'm Atilla! (SirAtilotty)
 
-### 🚀 Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer
+### Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer
 
 I am a high school student and a tech enthusiast deeply invested in the intersection of software and hardware. I specialize in building high-performance systems with **Java**, securing environments with **Kali Linux**, and pushing the hardware limits of **Raspberry Pi 5**.
 
 ---
 
-## 🛠 Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Programming & Scripting
+###  Programming & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -16,7 +16,7 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-### 🛡 Infrastructure & Hardware
+###  Infrastructure & Hardware
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
@@ -26,9 +26,9 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
 
 ---
 
-## 🏗 Featured Projects
+##  Featured Projects
 
-### 📡 Wi-Fi Sensing & Doppler Matrix (Active)
+###  Wi-Fi Sensing & Doppler Matrix (Active)
 Developed a system using **ESP32-S3** modules to detect movement through walls by analyzing Wi-Fi signal disturbances (CSI data).
 - **Firmware:** C++/Arduino (Signal Transmission)
 - **Compute:** Raspberry Pi 5 (8GB)
@@ -36,9 +36,10 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 
 ---
 
-## 🔬 My Hardware Lab
-- **Main Server:** Raspberry Pi 5 (8GB RAM)
+##  My Hardware Lab
+- **Server:** Raspberry Pi 5 (8GB RAM)
 - **Nodes:** ESP32-S3, Arduino Uno,
+- **Maker Lab** BambuLab A1
 
 ---
 
@@ -55,14 +56,14 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 
 ---
 
-## 🔭 Unexpected Bug?
+## Pikachu
 <p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpaWxoamgwOWE4Z3JraWJscTZucngzdm92ZW5vdHR6aTNrb2oybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kzJvEciJa94SMW3hN/giphy.gif" width="180" />
 </p>
 
 ---
 
-## 🛠 Tools & OS
+##  Tools & OS
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4E555B?style=flat&logo=apple-terminal&logoColor=white)
