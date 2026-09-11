@@ -38,6 +38,7 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 ---
 
 ##  My Hardware Lab
+- **Main PC:** Arch Linux
 - **Server:** Raspberry Pi 5 (8GB RAM)
 - **Nodes:** ESP32-S3, Arduino Uno,
 - **Maker Lab:** BambuLab A1
