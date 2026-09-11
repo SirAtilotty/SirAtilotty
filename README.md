@@ -18,6 +18,7 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
 
 ###  Infrastructure & Hardware
 <p align="left">
+  <img src=https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
