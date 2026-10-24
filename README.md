@@ -1,4 +1,4 @@
-# Hey, I'm Atilla 👋
+# Hey, I'm Atilla 
 
 **Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer**
 
