@@ -1,14 +1,15 @@
-# 👨‍💻 Hi there, I'm Atilla! (SirAtilotty)
+# Hey, I'm Atilla 👋
 
-### Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer
+**Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer**
 
-I am a high school student and a tech enthusiast deeply invested in the intersection of software and hardware. I specialize in building high-performance systems with **Java**, securing environments with **Kali Linux**, and pushing the hardware limits of **Raspberry Pi 5**.
+I spend most of my time where software meets hardware — writing systems in **Java**, poking at security with **Kali Linux**, and seeing how far I can push a **Raspberry Pi 5**. There's usually a soldering iron, a terminal window, and at least one half-finished project nearby.
 
 ---
 
-##  Skills & Technologies
+## 🛠️ What I work with
 
-###  Programming & Scripting
+**Languages & Scripting**
+
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -16,7 +17,8 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-###  Infrastructure & Hardware
+**Infrastructure & Hardware**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
@@ -27,25 +29,35 @@ I am a high school student and a tech enthusiast deeply invested in the intersec
 
 ---
 
-##  Featured Projects
+## 🚀 Projects
 
-###  Wi-Fi Sensing & Doppler Matrix (Active)
-Developed a system using **ESP32-S3** modules to detect movement through walls by analyzing Wi-Fi signal disturbances (CSI data).
-- **Firmware:** C++/Arduino (Signal Transmission)
-- **Compute:** Raspberry Pi 5 (8GB)
+### Wi-Fi Sensing & Doppler Matrix *(active)*
+Using ESP32-S3 modules to detect movement through walls by analyzing Wi-Fi signal disturbances (CSI data). Signal side runs in C++/Arduino; the number-crunching happens on a Raspberry Pi 5.
 
+### [Distro Invaders](https://github.com/SirAtilotty/DistroInvaders)
+A retro arcade shooter in pure Java Swing — you're defending Arch Linux, and the enemies are incoming Ubuntu, Fedora and Debian logos instead of asteroids. Let too many through and it's a kernel panic. v1.1.0 added picking your distro before each run, each with its own perk, plus local high scores.
+
+### [Image2Spectrogram](https://github.com/SirAtilotty/Image2Spectogram)
+A Python tool that hides an image inside a `.wav` file — open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies. Still a beta, still fun to mess with.
+
+### [Hypixel Status Checker](https://github.com/SirAtilotty/HypixelStatusChecker)
+A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. Originally started by Sadekx — I took it over and rebuilt it, from how it handles the API key to the UI itself.
+
+### [EJDER v3.0](https://github.com/SirAtilotty/EJDER-v3.0)
+A WiFi auditing tool for the ESP32-S3 — runs deauth and beacon-flood style tests from a small web dashboard, built for learning how these attacks work and testing your own network. *(Educational / authorized use only.)*
 
 ---
 
-##  My Hardware Lab
-- **Main PC:** Arch Linux
-- **Server:** Raspberry Pi 5 (8GB RAM)
-- **Nodes:** ESP32-S3, Arduino Uno,
-- **Maker Lab:** BambuLab A1
+## 🖥️ My setup
+
+- **Main rig:** Arch Linux
+- **Home server:** Raspberry Pi 5 (8GB)
+- **Nodes:** ESP32-S3, Arduino Uno
+- **Maker corner:** BambuLab A1
 
 ---
 
-## 📈 My GitHub Journey
+## 📈 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SirAtilotty&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -58,14 +70,8 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 
 ---
 
-## Pikachu
-<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNpaWxoamgwOWE4Z3JraWJscTZucngzdm92ZW5vdHR6aTNrb2oybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kzJvEciJa94SMW3hN/giphy.gif" width="180" />
-</p>
+## 🧰 Tools
 
----
-
-##  Tools & OS
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4E555B?style=flat&logo=apple-terminal&logoColor=white)
@@ -73,6 +79,4 @@ Developed a system using **ESP32-S3** modules to detect movement through walls b
 
 ---
 
-
-- **Status:** *Always learning, always building.*
-- **Focus:** High-performance Java & System Security
+<p align="center"><i>Usually either compiling something, or trying to figure out why it won't compile.</i></p>
