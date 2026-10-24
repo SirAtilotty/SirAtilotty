@@ -52,7 +52,6 @@ A strategy game by [ahmojunior](https://github.com/ahmojunior) about environment
 
 - **Main rig:** Arch Linux
 - **Home server:** Raspberry Pi 5 (8GB)
-- **Nodes:** ESP32-S3, Arduino Uno
 - **Maker corner:** BambuLab A1
 
 ---
