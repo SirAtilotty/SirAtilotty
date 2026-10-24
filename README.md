@@ -1,4 +1,4 @@
-# Hey, I'm Atilla 
+# Hey, I'm SirAtilotty 👋
 
 **Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer**
 
@@ -43,8 +43,8 @@ A Python tool that hides an image inside a `.wav` file — open the audio in a s
 ### [Hypixel Status Checker](https://github.com/SirAtilotty/HypixelStatusChecker)
 A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. Originally started by Sadekx — I took it over and rebuilt it, from how it handles the API key to the UI itself.
 
-### [EJDER v3.0](https://github.com/SirAtilotty/EJDER-v3.0)
-A WiFi auditing tool for the ESP32-S3 — runs deauth and beacon-flood style tests from a small web dashboard, built for learning how these attacks work and testing your own network. *(Educational / authorized use only.)*
+### [Green Türkiye](https://github.com/ahmojunior/green-turkiye) *(contributor)*
+A strategy game by [ahmojunior](https://github.com/ahmojunior) about environmental sustainability — pick a region of Turkey, react to events like landslides or droughts, and balance budget, public happiness and environmental health against each other. Built with React 19, TypeScript and Tailwind CSS v4; I contribute to it alongside my own projects.
 
 ---
 
