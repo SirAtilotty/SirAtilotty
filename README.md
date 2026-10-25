@@ -1,8 +1,7 @@
 # Hey, I'm SirAtilotty 👋
 
-**Java Systems Architect | Cybersecurity & Network Security | Embedded Engineer**
+**A high school student trying to develop projects and tools on his own**
 
-I spend most of my time where software meets hardware — writing systems in **Java**, poking at security with **Kali Linux**, and seeing how far I can push a **Raspberry Pi 5**. There's usually a soldering iron, a terminal window, and at least one half-finished project nearby.
 
 ---
 
@@ -30,9 +29,6 @@ I spend most of my time where software meets hardware — writing systems in **J
 ---
 
 ## 🚀 Projects
-
-### Wi-Fi Sensing & Doppler Matrix *(active)*
-Using ESP32-S3 modules to detect movement through walls by analyzing Wi-Fi signal disturbances (CSI data). Signal side runs in C++/Arduino; the number-crunching happens on a Raspberry Pi 5.
 
 ### [Distro Invaders](https://github.com/SirAtilotty/DistroInvaders)
 A retro arcade shooter in pure Java Swing — you're defending Arch Linux, and the enemies are incoming Ubuntu, Fedora and Debian logos instead of asteroids. Let too many through and it's a kernel panic. v1.1.0 added picking your distro before each run, each with its own perk, plus local high scores.
