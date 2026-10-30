@@ -33,7 +33,7 @@
 This is a game I developed as a hobby; it’s a simple Java game where you choose your "distro" (spaceship) and shoot down other "distros" that are heading toward you.
 
 ### [Image2Spectrogram](https://github.com/SirAtilotty/Image2Spectogram)
-A Python tool that hides an image inside a `.wav` file — open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies.
+A Python tool that hides an image inside a `.wav` file open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies.
 
 ### [Hypixel Status Checker](https://github.com/SirAtilotty/HypixelStatusChecker)
 A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. 
