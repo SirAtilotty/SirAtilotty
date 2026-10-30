@@ -41,7 +41,6 @@ A small Java desktop app I made to check if a Minecraft player is online on Hypi
 ### [Green Türkiye](https://github.com/ahmojunior/green-turkiye) *(contributor)*
 This project was originally made by my friend, ahmojunior. The idea is pretty simple: we pick a region (like Türkiye, the UK, or Germany) and look for ways to help with the problems it faces. I've also contributed to the project.
 
-Built with React 19, TypeScript and Tailwind CSS v4.
 
 ---
 
