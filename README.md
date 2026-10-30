@@ -39,7 +39,7 @@ A Python tool that hides an image inside a `.wav` file open the audio in a spect
 A small Java desktop app I made to check if a Minecraft player is online on Hypixel. It also shows their current game and rank. 
 
 ### [Green Türkiye](https://github.com/ahmojunior/green-turkiye) *(contributor)*
-A strategy game made by ahmojunior where you manage a region of Turkey and deal with events like droughts and landslides. You have to keep an eye on your budget, people's happiness and the environment. I contribute to the project alongside working on my own stuff.
+This project was originally made by my friend, ahmojunior. The idea is pretty simple: we pick a region (like Türkiye, the UK, or Germany) and look for ways to help with the problems it faces. I've also contributed to the project.
 
 Built with React 19, TypeScript and Tailwind CSS v4.
 
