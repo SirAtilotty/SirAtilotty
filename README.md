@@ -30,13 +30,13 @@
 ## 🚀 Projects
 
 ### [Distro Invaders](https://github.com/SirAtilotty/DistroInvaders)
-A retro arcade shooter in pure Java Swing — you're defending Arch Linux, and the enemies are incoming Ubuntu, Fedora and Debian logos instead of asteroids. Let too many through and it's a kernel panic. v1.1.0 added picking your distro before each run, each with its own perk, plus local high scores.
+This is a game I developed as a hobby; it’s a simple Java game where you choose your "distro" (spaceship) and shoot down other "distros" that are heading toward you.
 
 ### [Image2Spectrogram](https://github.com/SirAtilotty/Image2Spectogram)
-A Python tool that hides an image inside a `.wav` file — open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies. Still a beta, still fun to mess with.
+A Python tool that hides an image inside a `.wav` file — open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies.
 
 ### [Hypixel Status Checker](https://github.com/SirAtilotty/HypixelStatusChecker)
-A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. Originally started by Sadekx — I took it over and rebuilt it, from how it handles the API key to the UI itself.
+A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. 
 
 ### [Green Türkiye](https://github.com/ahmojunior/green-turkiye) *(contributor)*
 A strategy game by [ahmojunior](https://github.com/ahmojunior) about environmental sustainability — pick a region of Turkey, react to events like landslides or droughts, and balance budget, public happiness and environmental health against each other. Built with React 19, TypeScript and Tailwind CSS v4; I contribute to it alongside my own projects.
@@ -66,7 +66,7 @@ A strategy game by [ahmojunior](https://github.com/ahmojunior) about environment
 
 ## 🧰 Tools
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4E555B?style=flat&logo=apple-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
