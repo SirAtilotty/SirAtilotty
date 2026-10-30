@@ -36,10 +36,12 @@ This is a game I developed as a hobby; it’s a simple Java game where you choos
 A Python tool that hides an image inside a `.wav` file open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies.
 
 ### [Hypixel Status Checker](https://github.com/SirAtilotty/HypixelStatusChecker)
-A lightweight Java desktop app that looks up a Minecraft username and shows whether they're online on Hypixel, what game mode they're in, and their rank. 
+A small Java desktop app I made to check if a Minecraft player is online on Hypixel. It also shows their current game and rank. 
 
 ### [Green Türkiye](https://github.com/ahmojunior/green-turkiye) *(contributor)*
-A strategy game by [ahmojunior](https://github.com/ahmojunior) about environmental sustainability — pick a region of Turkey, react to events like landslides or droughts, and balance budget, public happiness and environmental health against each other. Built with React 19, TypeScript and Tailwind CSS v4; I contribute to it alongside my own projects.
+A strategy game made by ahmojunior where you manage a region of Turkey and deal with events like droughts and landslides. You have to keep an eye on your budget, people's happiness and the environment. I contribute to the project alongside working on my own stuff.
+
+Built with React 19, TypeScript and Tailwind CSS v4.
 
 ---
 
