@@ -58,8 +58,8 @@ This project was originally made by my friend, ahmojunior. The idea is pretty si
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirAtilotty&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAtilotty&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SirAtilotty&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SirAtilotty&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
