@@ -51,7 +51,6 @@ This project was originally made by my friend, ahmojunior. The idea is pretty si
 
 - **Main rig:** Arch Linux
 - **Home server:** Raspberry Pi 5 (ATICOM)
-- **Maker corner:** BambuLab A1
 
 ---
 
