@@ -32,8 +32,8 @@
 ### [Pardus Pen](https://github.com/pardus/pardus-pen) *(contributor)*
 Pardus Pen is the on-screen drawing and annotation tool of Pardus, the Linux distribution developed in Türkiye, used a lot on smart boards in schools. It already had circle, rectangle and triangle tools but no ellipse, so I added a new shape that you draw by dragging from corner to corner, with its own icon, an `Alt+A` shortcut. I sent it as [PR #62](https://github.com/pardus/pardus-pen/pull/62), and the maintainer reviewed it, polished the code and brought the ellipse tool into the project.
 
-### [Distro Invaders](https://github.com/SirAtilotty/DistroInvaders)
-This is a game I developed as a hobby; it’s a simple Java game where you choose your "distro" (spaceship) and shoot down other "distros" that are heading toward you.
+### [ATICOM](https://github.com/SirAtilotty/ATICOM)
+A small, invite-only messenger for a closed group of friends. It runs in the browser and installs on the phone home screen like an app.
 
 ### [Image2Spectrogram](https://github.com/SirAtilotty/Image2Spectogram)
 A Python tool that hides an image inside a `.wav` file open the audio in a spectrogram viewer like Audacity and the picture appears in the frequencies.
