@@ -50,7 +50,7 @@ This project was originally made by my friend, ahmojunior. The idea is pretty si
 ## 🖥️ My setup
 
 - **Main rig:** Arch Linux
-- **Home server:** Raspberry Pi 5 (8GB)
+- **Home server:** Raspberry Pi 5 (ATICOM)
 - **Maker corner:** BambuLab A1
 
 ---
